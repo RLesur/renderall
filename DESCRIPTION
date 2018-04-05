@@ -1,0 +1,12 @@
+Package: renderall
+Type: Package
+Title: Render All RMarkdown Output Formats
+Version: 0.0.0.9000
+Author: Romain Lesur
+Maintainer: Romain Lesur <romain.lesur@gmail.com>
+Description: A small RStudio addin to render all output formats.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Imports: rstudioapi, rmarkdown, tools
+RoxygenNote: 6.0.1

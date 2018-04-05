@@ -1,0 +1,4 @@
+Name: Render All
+Description: Render all output formats
+Binding: renderAll
+Interactive: false
